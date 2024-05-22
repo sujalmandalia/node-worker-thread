@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-worker",
+  "version": "1.0.0",
+  "description": "This is a demo for a nodejs Worker thread module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujal Mandalia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
